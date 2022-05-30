@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+
+        <link rel="stylesheet" href="/css/chat.css" />
+        <style>
+            *{
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+                text-decoration: none;
+            }
+            .btn{
+                padding: 10px 14px;
+                color: white;
+                background: #2196F3;
+                margin: 0 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="fabs">
+            <div class="chat">
+              <div class="chat_header">
+                <span id="chat_head">Live Chat</span>
+                <div class="chat_loader"></div>
+                <div class="chat_option"><i class="zmdi zmdi-more-vert"></i>
+                  <ul>
+                    <li><span class="chat_color" style="border:solid 5px #2196F3" color="blue"></span></li>
+                    <li><span class="chat_color" style="border:solid 5px #00bcd4" color="cyan"></span></li>
+                    <li><span class="chat_color" style="border:solid 5px #607d8b" color="blue-grey"></span></li>
+                    <li><span class="chat_color" style="border:solid 5px #4caf50" color="green"></span></li>
+                    <li><span class="chat_color" style="border:solid 5px #8bc34a" color="light-green"></span></li>
+                    <li><span class="chat_color" style="border:solid 5px #cddc39" color="lime"></span></li>
+                    <li><span class="chat_color" style="border:solid 5px #ffc107" color="amber"></span></li>
+                    <li><span class="chat_color" style="border:solid 5px #ff5722" color="deep-orange"></span></li>
+                    <li><span class="chat_color" style="border:solid 5px #f44336" color="red"></span></li>
+                  </ul>
+                </div>
+          
+              </div>
+              <div class="chat_login">
+                  <a id="chat_send_email" class="fab"><i class="zmdi zmdi-email"></i></a>
+                  <input id="chat_log_email" placeholder="Email"></input>
+              <div class="chat_login_alert"></div>
+              </div>
+              <div id="chat_converse" class="chat_converse">
+                <div class="chat_msg_item chat_msg_item_admin">
+                      <div class="chat_avatar">
+                        <i class="zmdi zmdi-headset-mic"></i>
+                      </div>
+                      <img class="chat_img" src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/250222784_234429405271282_6119617109029441485_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ahQuoasNvrEAX8oeN18&_nc_ht=scontent.fdad2-1.fna&oh=03_AVKyIZ3TFpirT3pCia0N2_ZrWv5CUGRoWRTxY2DIvevhmQ&oe=62B52F7A" alt="">
+                     
+                </div>
+                <div class="chat_msg_item chat_msg_item_user">
+                      <div class="chat_avatar">
+                        <i class="zmdi zmdi-account"></i>
+                      </div>Ermm..</div>
+              </div>
+              <div class="fab_field">
+                <a id="fab_listen" class="fab"><i class="zmdi zmdi-mic-outline"></i></a>
+                <a id="fab_send" class="fab"><i class="zmdi zmdi-mail-send"></i></a>
+                <textarea id="chatSend" name="chat_message" placeholder="Write a message" class="chat_field chat_message"></textarea>
+              </div>
+            </div>
+            <a target="_blank" id="fab_help" class="fab"><i class="zmdi zmdi-help-outline"></i></a>
+            <a id="prime" class="fab"><i class="prime zmdi zmdi-plus"></i></a>
+          </div>
+        </div>
+    </body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="/js/chat.js"></script>
+</html>

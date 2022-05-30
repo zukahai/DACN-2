@@ -1,0 +1,4 @@
+./Botchat/.node_modules
+./Botchat/.idea
+./Botchat/.env
+./Botchat/src/configs/config.json

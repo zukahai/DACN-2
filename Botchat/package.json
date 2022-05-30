@@ -1,0 +1,36 @@
+{
+    "name": "botchat",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon --exec babel-node src/server.js"
+    },
+    "author": "Nam077",
+    "license": "ISC",
+    "dependencies": {
+        "@sequelize/core": "^7.0.0-alpha.10",
+        "axios": "^0.24.0",
+        "body-parser": "^1.19.0",
+        "cheerio": "^1.0.0-rc.10",
+        "cookie-parser": "^1.4.6",
+        "cors": "^2.8.5",
+        "dotenv": "^8.2.0",
+        "ejs": "^3.1.5",
+        "express": "^4.17.1",
+        "google-spreadsheet": "^3.1.15",
+        "jsonwebtoken": "^8.5.1",
+        "mysql2": "^2.3.3",
+        "request": "^2.88.2",
+        "sequelize": "^6.20.1",
+        "translate-google": "^1.5.0"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.12.10",
+        "@babel/node": "^7.12.10",
+        "@babel/preset-env": "^7.12.11",
+        "nodemon": "^2.0.7",
+        "sequelize-cli": "^6.4.1"
+    }
+}

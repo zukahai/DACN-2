@@ -1,0 +1,64 @@
+{
+    "intents": [{
+            "tag": "greeting",
+            "patterns": ["Chào bạn", "Xin chào", "Bạn ơi", "Bạn ở đâu rồi", "Giúp tôi một xíu", "Chào bot", "Bot ơi", "Chào Ad", "Chào admin", "Chào cậu"],
+            "responses": ["1"]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Tạm biệt", "Dừng lại đi", "Goodbye", "bye"],
+            "responses": ["2"]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["Thanks", "Thank you", "Cảm ơn bạn", "Cảm ơn", "Tuyệt quá"],
+            "responses": ["3"]
+        },
+        {
+            "tag": "health",
+            "patterns": ["Bạn có khỏe không", "Bạn ổn không", "Bạn vẫn ổn chứ", "Ổn chứ", "Ổn không"],
+            "responses": ["4"]
+        },
+        {
+            "tag": "name",
+            "patterns": ["Tên bạn", "Tên gì thế", "Tên gì vậy", "Chưa biết bạn", "Bạn tên gì"],
+            "responses": ["5"]
+        },
+        {
+            "tag": "handsome",
+            "patterns": ["Thấy tôi thế nào", "Tôi đẹp trai không", "Tôi xinh không", "Đẹp trai không", "Đẹp gái", "Đẹp trai"],
+            "responses": ["6"]
+        },
+        {
+            "tag": "health2",
+            "patterns": ["Tôi bị ốm", "Tôi không được khỏe", "Không khỏe", "Mệt quá", "Đang đi viện", "Tôi mệt mỏi quá"],
+            "responses": ["7"]
+        },
+        {
+            "tag": "make",
+            "patterns": ["Bạn do ai tạo", "Ai tạo ra bạn", "Người tạo ra bạn"],
+            "responses": ["8"]
+        },
+        {
+            "tag": "name2",
+            "patterns": ["Tôi tên gì vậy", "Tôi tên là gì", "Tên tôi là gì thế"],
+            "responses": ["9"]
+        },
+        {
+            "tag": "relationship",
+            "patterns": ["Bạn có người yêu chưa", "Người yêu của bạn tên là gì", "Đã có người yêu chưa", "Yêu đứa nào chưa"],
+            "responses": ["10"]
+        },
+        {
+            "tag": "like",
+            "patterns": ["Bạn thích làm gì", "Sở thích của bạn", "Bạn hay làm gì nhất", "Rảnh rỗi bạn làm gì"],
+            "responses": ["11"]
+        },
+        {
+            "tag": "gold",
+            "patterns": ["Vàng hôm nay giá như thế nào", "Giá vàng như thế nào", "Vàng có đắt không", "Hôm nay vàng có thay đổi giá gì không", "Vàng mua hết bao nhiêu tiền nhỉ bạn", "Vàng rẻ khônt"],
+            "responses": ["12"]
+        }
+
+    ]
+}

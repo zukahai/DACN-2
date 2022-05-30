@@ -1,0 +1,894 @@
+[
+    {
+        "key": "america",
+        "href": "country/us/"
+    },
+    {
+        "key": "U.S",
+        "href": "country/us/"
+    },
+    {
+        "key": "india",
+        "href": "country/india/"
+    },
+    {
+        "key": "brazil",
+        "href": "country/brazil/"
+    },
+    {
+        "key": "england",
+        "href": "country/uk/"
+    },
+    {
+        "key": "russia",
+        "href": "country/russia/"
+    },
+    {
+        "key": "turkey",
+        "href": "country/turkey/"
+    },
+    {
+        "key": "france",
+        "href": "country/france/"
+    },
+    {
+        "key": "germany",
+        "href": "country/germany/"
+    },
+    {
+        "key": "iran",
+        "href": "country/iran/"
+    },
+    {
+        "key": "spain",
+        "href": "country/spain/"
+    },
+    {
+        "key": "italy",
+        "href": "country/italy/"
+    },
+    {
+        "key": "argentina",
+        "href": "country/argentina/"
+    },
+    {
+        "key": "colombia",
+        "href": "country/colombia/"
+    },
+    {
+        "key": "indonesia",
+        "href": "country/indonesia/"
+    },
+    {
+        "key": "poland",
+        "href": "country/poland/"
+    },
+    {
+        "key": "mexico",
+        "href": "country/mexico/"
+    },
+    {
+        "key": "ukraine",
+        "href": "country/ukraine/"
+    },
+    {
+        "key": "south africa",
+        "href": "country/south-africa/"
+    },
+    {
+        "key": "netherlands",
+        "href": "country/netherlands/"
+    },
+    {
+        "key": "philippines",
+        "href": "country/philippines/"
+    },
+    {
+        "key": "malaysia",
+        "href": "country/malaysia/"
+    },
+    {
+        "key": "czechia",
+        "href": "country/czech-republic/"
+    },
+    {
+        "key": "peru",
+        "href": "country/peru/"
+    },
+    {
+        "key": "thailand",
+        "href": "country/thailand/"
+    },
+    {
+        "key": "iraq",
+        "href": "country/iraq/"
+    },
+    {
+        "key": "belgium",
+        "href": "country/belgium/"
+    },
+    {
+        "key": "canada",
+        "href": "country/canada/"
+    },
+    {
+        "key": "romania",
+        "href": "country/romania/"
+    },
+    {
+        "key": "chile",
+        "href": "country/chile/"
+    },
+    {
+        "key": "japan",
+        "href": "country/japan/"
+    },
+    {
+        "key": "bangladesh",
+        "href": "country/bangladesh/"
+    },
+    {
+        "key": "vietnam",
+        "href": "country/viet-nam/"
+    },
+    {
+        "key": "israel",
+        "href": "country/israel/"
+    },
+    {
+        "key": "israeli",
+        "href": "country/israel/"
+    },
+    {
+        "key": "pakistan",
+        "href": "country/pakistan/"
+    },
+    {
+        "key": "serbia",
+        "href": "country/serbia/"
+    },
+    {
+        "key": "austria",
+        "href": "country/austria/"
+    },
+    {
+        "key": "sweden",
+        "href": "country/sweden/"
+    },
+    {
+        "key": "hungary",
+        "href": "country/hungary/"
+    },
+    {
+        "key": "portugal",
+        "href": "country/portugal/"
+    },
+    {
+        "key": "switzerland",
+        "href": "country/switzerland/"
+    },
+    {
+        "key": "jordan",
+        "href": "country/jordan/"
+    },
+    {
+        "key": "greece",
+        "href": "country/greece/"
+    },
+    {
+        "key": "kazakhstan",
+        "href": "country/kazakhstan/"
+    },
+    {
+        "key": "cuba",
+        "href": "country/cuba/"
+    },
+    {
+        "key": "morocco",
+        "href": "country/morocco/"
+    },
+    {
+        "key": "georgia",
+        "href": "country/georgia/"
+    },
+    {
+        "key": "nepal",
+        "href": "country/nepal/"
+    },
+    {
+        "key": "slovakia",
+        "href": "country/slovakia/"
+    },
+    {
+        "key": "united arab emirates",
+        "href": "country/united-arab-emirates/"
+    },
+    {
+        "key": "bulgaria",
+        "href": "country/bulgaria/"
+    },
+    {
+        "key": "tunisia",
+        "href": "country/tunisia/"
+    },
+    {
+        "key": "lebanon",
+        "href": "country/lebanon/"
+    },
+    {
+        "key": "belarus",
+        "href": "country/belarus/"
+    },
+    {
+        "key": "croatia",
+        "href": "country/croatia/"
+    },
+    {
+        "key": "ireland",
+        "href": "country/ireland/"
+    },
+    {
+        "key": "denmark",
+        "href": "country/denmark/"
+    },
+    {
+        "key": "guatemala",
+        "href": "country/guatemala/"
+    },
+    {
+        "key": "azerbaijan",
+        "href": "country/azerbaijan/"
+    },
+    {
+        "key": "sri lanka",
+        "href": "country/sri-lanka/"
+    },
+    {
+        "key": "korea",
+        "href": "country/south-korea/"
+    },
+    {
+        "key": "costa rica",
+        "href": "country/costa-rica/"
+    },
+    {
+        "key": "bolivia",
+        "href": "country/bolivia/"
+    },
+    {
+        "key": "saudi arabia",
+        "href": "country/saudi-arabia/"
+    },
+    {
+        "key": "ecuador",
+        "href": "country/ecuador/"
+    },
+    {
+        "key": "myanmar",
+        "href": "country/myanmar/"
+    },
+    {
+        "key": "lithuania",
+        "href": "country/lithuania/"
+    },
+    {
+        "key": "panama",
+        "href": "country/panama/"
+    },
+    {
+        "key": "paraguay",
+        "href": "country/paraguay/"
+    },
+    {
+        "key": "slovenia",
+        "href": "country/slovenia/"
+    },
+    {
+        "key": "venezuela",
+        "href": "country/venezuela/"
+    },
+    {
+        "key": "palestine",
+        "href": "country/state-of-palestine/"
+    },
+    {
+        "key": "kuwait",
+        "href": "country/kuwait/"
+    },
+    {
+        "key": "dominican republic",
+        "href": "country/dominican-republic/"
+    },
+    {
+        "key": "uruguay",
+        "href": "country/uruguay/"
+    },
+    {
+        "key": "mongolia",
+        "href": "country/mongolia/"
+    },
+    {
+        "key": "libya",
+        "href": "country/libya/"
+    },
+    {
+        "key": "honduras",
+        "href": "country/honduras/"
+    },
+    {
+        "key": "ethiopia",
+        "href": "country/ethiopia/"
+    },
+    {
+        "key": "egypt",
+        "href": "country/egypt/"
+    },
+    {
+        "key": "moldova",
+        "href": "country/moldova/"
+    },
+    {
+        "key": "norway",
+        "href": "country/norway/"
+    },
+    {
+        "key": "armenia",
+        "href": "country/armenia/"
+    },
+    {
+        "key": "oman",
+        "href": "country/oman/"
+    },
+    {
+        "key": "bosnia and herzegovina",
+        "href": "country/bosnia-and-herzegovina/"
+    },
+    {
+        "key": "bahrain",
+        "href": "country/bahrain/"
+    },
+    {
+        "key": "singapore",
+        "href": "country/singapore/"
+    },
+    {
+        "key": "latvia",
+        "href": "country/latvia/"
+    },
+    {
+        "key": "kenya",
+        "href": "country/kenya/"
+    },
+    {
+        "key": "australia",
+        "href": "country/australia/"
+    },
+    {
+        "key": "qatar",
+        "href": "country/qatar/"
+    },
+    {
+        "key": "estonia",
+        "href": "country/estonia/"
+    },
+    {
+        "key": "nigeria",
+        "href": "country/nigeria/"
+    },
+    {
+        "key": "north macedonia",
+        "href": "country/macedonia/"
+    },
+    {
+        "key": "finland",
+        "href": "country/finland/"
+    },
+    {
+        "key": "zambia",
+        "href": "country/zambia/"
+    },
+    {
+        "key": "algeria",
+        "href": "country/algeria/"
+    },
+    {
+        "key": "albania",
+        "href": "country/albania/"
+    },
+    {
+        "key": "botswana",
+        "href": "country/botswana/"
+    },
+    {
+        "key": "uzbekistan",
+        "href": "country/uzbekistan/"
+    },
+    {
+        "key": "zimbabwe",
+        "href": "country/zimbabwe/"
+    },
+    {
+        "key": "kyrgyzstan",
+        "href": "country/kyrgyzstan/"
+    },
+    {
+        "key": "montenegro",
+        "href": "country/montenegro/"
+    },
+    {
+        "key": "mozambique",
+        "href": "country/mozambique/"
+    },
+    {
+        "key": "afghanistan",
+        "href": "country/afghanistan/"
+    },
+    {
+        "key": "cyprus",
+        "href": "country/cyprus/"
+    },
+    {
+        "key": "namibia",
+        "href": "country/namibia/"
+    },
+    {
+        "key": "ghana",
+        "href": "country/ghana/"
+    },
+    {
+        "key": "uganda",
+        "href": "country/uganda/"
+    },
+    {
+        "key": "el salvador",
+        "href": "country/el-salvador/"
+    },
+    {
+        "key": "cambodia",
+        "href": "country/cambodia/"
+    },
+    {
+        "key": "cameroon",
+        "href": "country/cameroon/"
+    },
+    {
+        "key": "rwanda",
+        "href": "country/rwanda/"
+    },
+    {
+        "key": "china",
+        "href": "country/china/"
+    },
+    {
+        "key": "laos",
+        "href": "country/laos/"
+    },
+    {
+        "key": "luxembourg",
+        "href": "country/luxembourg/"
+    },
+    {
+        "key": "maldives",
+        "href": "country/maldives/"
+    },
+    {
+        "key": "jamaica",
+        "href": "country/jamaica/"
+    },
+    {
+        "key": "trinidad and tobago",
+        "href": "country/trinidad-and-tobago/"
+    },
+    {
+        "key": "senegal",
+        "href": "country/senegal/"
+    },
+    {
+        "key": "drc",
+        "href": "country/democratic-republic-of-the-congo/"
+    },
+    {
+        "key": "réunion",
+        "href": "country/reunion/"
+    },
+    {
+        "key": "angola",
+        "href": "country/angola/"
+    },
+    {
+        "key": "malawi",
+        "href": "country/malawi/"
+    },
+    {
+        "key": "ivory coast",
+        "href": "country/cote-d-ivoire/"
+    },
+    {
+        "key": "eswatini",
+        "href": "country/swaziland/"
+    },
+    {
+        "key": "guadeloupe",
+        "href": "country/guadeloupe/"
+    },
+    {
+        "key": "fiji",
+        "href": "country/fiji/"
+    },
+    {
+        "key": "suriname",
+        "href": "country/suriname/"
+    },
+    {
+        "key": "syria",
+        "href": "country/syria/"
+    },
+    {
+        "key": "madagascar",
+        "href": "country/madagascar/"
+    },
+    {
+        "key": "french guiana",
+        "href": "country/french-guiana/"
+    },
+    {
+        "key": "martinique",
+        "href": "country/martinique/"
+    },
+    {
+        "key": "french polynesia",
+        "href": "country/french-polynesia/"
+    },
+    {
+        "key": "sudan",
+        "href": "country/sudan/"
+    },
+    {
+        "key": "malta",
+        "href": "country/malta/"
+    },
+    {
+        "key": "mauritania",
+        "href": "country/mauritania/"
+    },
+    {
+        "key": "guyana",
+        "href": "country/guyana/"
+    },
+    {
+        "key": "cabo verde",
+        "href": "country/cabo-verde/"
+    },
+    {
+        "key": "gabon",
+        "href": "country/gabon/"
+    },
+    {
+        "key": "papua new guinea",
+        "href": "country/papua-new-guinea/"
+    },
+    {
+        "key": "belize",
+        "href": "country/belize/"
+    },
+    {
+        "key": "guinea",
+        "href": "country/guinea/"
+    },
+    {
+        "key": "barbados",
+        "href": "country/barbados/"
+    },
+    {
+        "key": "togo",
+        "href": "country/togo/"
+    },
+    {
+        "key": "tanzania",
+        "href": "country/tanzania/"
+    },
+    {
+        "key": "haiti",
+        "href": "country/haiti/"
+    },
+    {
+        "key": "lesotho",
+        "href": "country/lesotho/"
+    },
+    {
+        "key": "benin",
+        "href": "country/benin/"
+    },
+    {
+        "key": "seychelles",
+        "href": "country/seychelles/"
+    },
+    {
+        "key": "somalia",
+        "href": "country/somalia/"
+    },
+    {
+        "key": "bahamas",
+        "href": "country/bahamas/"
+    },
+    {
+        "key": "mauritius",
+        "href": "country/mauritius/"
+    },
+    {
+        "key": "channel islands",
+        "href": "country/channel-islands/"
+    },
+    {
+        "key": "burundi",
+        "href": "country/burundi/"
+    },
+    {
+        "key": "mayotte",
+        "href": "country/mayotte/"
+    },
+    {
+        "key": "andorra",
+        "href": "country/andorra/"
+    },
+    {
+        "key": "iceland",
+        "href": "country/iceland/"
+    },
+    {
+        "key": "timor-leste",
+        "href": "country/timor-leste/"
+    },
+    {
+        "key": "mali",
+        "href": "country/mali/"
+    },
+    {
+        "key": "congo",
+        "href": "country/congo/"
+    },
+    {
+        "key": "curaçao",
+        "href": "country/curacao/"
+    },
+    {
+        "key": "nicaragua",
+        "href": "country/nicaragua/"
+    },
+    {
+        "key": "tajikistan",
+        "href": "country/tajikistan/"
+    },
+    {
+        "key": "aruba",
+        "href": "country/aruba/"
+    },
+    {
+        "key": "taiwan",
+        "href": "country/taiwan/"
+    },
+    {
+        "key": "burkina faso",
+        "href": "country/burkina-faso/"
+    },
+    {
+        "key": "brunei ",
+        "href": "country/brunei-darussalam/"
+    },
+    {
+        "key": "equatorial guinea",
+        "href": "country/equatorial-guinea/"
+    },
+    {
+        "key": "south sudan",
+        "href": "country/south-sudan/"
+    },
+    {
+        "key": "djibouti",
+        "href": "country/djibouti/"
+    },
+    {
+        "key": "new zealand",
+        "href": "country/new-zealand/"
+    },
+    {
+        "key": "saint lucia",
+        "href": "country/saint-lucia/"
+    },
+    {
+        "key": "isle of man",
+        "href": "country/isle-of-man/"
+    },
+    {
+        "key": "hong kong",
+        "href": "country/china-hong-kong-sar/"
+    },
+    {
+        "key": "new caledonia",
+        "href": "country/new-caledonia/"
+    },
+    {
+        "key": "central african republic",
+        "href": "country/central-african-republic/"
+    },
+    {
+        "key": "yemen",
+        "href": "country/yemen/"
+    },
+    {
+        "key": "gambia",
+        "href": "country/gambia/"
+    },
+    {
+        "key": "cayman islands",
+        "href": "country/cayman-islands/"
+    },
+    {
+        "key": "gibraltar",
+        "href": "country/gibraltar/"
+    },
+    {
+        "key": "eritrea",
+        "href": "country/eritrea/"
+    },
+    {
+        "key": "niger",
+        "href": "country/niger/"
+    },
+    {
+        "key": "san marino",
+        "href": "country/san-marino/"
+    },
+    {
+        "key": "sierra leone",
+        "href": "country/sierra-leone/"
+    },
+    {
+        "key": "guinea-bissau",
+        "href": "country/guinea-bissau/"
+    },
+    {
+        "key": "dominica",
+        "href": "country/dominica/"
+    },
+    {
+        "key": "grenada",
+        "href": "country/grenada/"
+    },
+    {
+        "key": "bermuda",
+        "href": "country/bermuda/"
+    },
+    {
+        "key": "liberia",
+        "href": "country/liberia/"
+    },
+    {
+        "key": "st. vincent grenadines",
+        "href": "country/saint-vincent-and-the-grenadines/"
+    },
+    {
+        "key": "chad",
+        "href": "country/chad/"
+    },
+    {
+        "key": "liechtenstein",
+        "href": "country/liechtenstein/"
+    },
+    {
+        "key": "faeroe islands",
+        "href": "country/faeroe-islands/"
+    },
+    {
+        "key": "sint maarten",
+        "href": "country/sint-maarten/"
+    },
+    {
+        "key": "comoros",
+        "href": "country/comoros/"
+    },
+    {
+        "key": "monaco",
+        "href": "country/monaco/"
+    },
+    {
+        "key": "antigua and barbuda",
+        "href": "country/antigua-and-barbuda/"
+    },
+    {
+        "key": "saint martin",
+        "href": "country/saint-martin/"
+    },
+    {
+        "key": "sao tome and principe",
+        "href": "country/sao-tome-and-principe/"
+    },
+    {
+        "key": "caribbean netherlands",
+        "href": "country/caribbean-netherlands/"
+    },
+    {
+        "key": "turks and caicos",
+        "href": "country/turks-and-caicos-islands/"
+    },
+    {
+        "key": "british virgin islands",
+        "href": "country/british-virgin-islands/"
+    },
+    {
+        "key": "saint kitts and nevis",
+        "href": "country/saint-kitts-and-nevis/"
+    },
+    {
+        "key": "bhutan",
+        "href": "country/bhutan/"
+    },
+    {
+        "key": "greenland",
+        "href": "country/greenland/"
+    },
+    {
+        "key": "anguilla",
+        "href": "country/anguilla/"
+    },
+    {
+        "key": "st. barth",
+        "href": "country/saint-barthelemy/"
+    },
+    {
+        "key": "wallis and futuna",
+        "href": "country/wallis-and-futuna-islands/"
+    },
+    {
+        "key": "saint pierre miquelon",
+        "href": "country/saint-pierre-and-miquelon/"
+    },
+    {
+        "key": "falkland islands",
+        "href": "country/falkland-islands-malvinas/"
+    },
+    {
+        "key": "macao",
+        "href": "country/china-macao-sar/"
+    },
+    {
+        "key": "montserrat",
+        "href": "country/montserrat/"
+    },
+    {
+        "key": "vatican city",
+        "href": "country/holy-see/"
+    },
+    {
+        "key": "solomon islands",
+        "href": "country/solomon-islands/"
+    },
+    {
+        "key": "western sahara",
+        "href": "country/western-sahara/"
+    },
+    {
+        "key": "vanuatu",
+        "href": "country/vanuatu/"
+    },
+    {
+        "key": "marshall islands",
+        "href": "country/marshall-islands/"
+    },
+    {
+        "key": "samoa",
+        "href": "country/samoa/"
+    },
+    {
+        "key": "saint helena",
+        "href": "country/saint-helena/"
+    },
+    {
+        "key": "micronesia",
+        "href": "country/micronesia/"
+    },
+    {
+        "key": "tonga",
+        "href": "country/tonga/"
+    }
+]

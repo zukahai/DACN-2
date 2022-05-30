@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+        integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<style>
+   
+
+    table,
+    th,
+    td {
+        text-align: center;
+        border: 1px solid;
+    }
+
+    /* No extra space between cells */
+</style>
+
+<body>
+    <div class="container">
+        <table id="myTable" class="table table-dark table-striped">
+            <thead>
+                <tr>
+                    <th rowspan=2>ID</th>
+                    <th rowspan=2>Name</th>
+                    <th colspan="3">Date</th>
+                    <th rowspan=2>Email</th>
+                    <th rowspan=2>UserName</th>
+                    <th rowspan=2>Gender</th>
+
+                </tr>
+                <tr>
+                    <td>Day</td>
+                    <td>Month</td>
+                    <td>Year</td>
+                </tr>
+            </thead>
+            <tbody id="hehe">
+                
+            </tbody>
+        </table>
+    </div>
+</body>
+<script>
+    let id = 0;
+    let a = 0;
+
+    $(document).ready(function () {
+       
+        var url = 'https://randomuser.me/api/';
+        for (let i = 0; i < 20; i++) {
+            $.ajax({
+                method: 'GET',
+                url: url,
+                dataType: 'json'
+            })
+                .done(mohit)
+                .fail(function () {
+                    console.log('failed')
+                })
+        }});
+   
+
+    function mohit(data) {
+        var info = data.results[0];
+        const moonLanding = new Date(data.results[0].dob.date);
+        var table = $("#myTable tbody");
+
+        var animation = ['w3-animate-top','w3-animate-bottom','w3-animate-opacity'];
+        var newRowContent = `<tr class ="${animation[a]}+"d">
+                    <td class ="${animation[0]}">${id}</td>
+                    <td class ="${animation[1]}">${info.name.first + " " + data.results[0].name.last}</td>
+                    <td class ="${animation[0]}">${moonLanding.getDay()}</td>
+                    <td class ="${animation[1]}" >${moonLanding.getMonth()+1}</td>
+                    <td class ="${animation[0]}">${moonLanding.getFullYear()}</td>
+                    <td class ="${animation[1]}">${info.email}</td>
+                    <td class ="${animation[0]}">${info.login.username}</td>
+                    <td class ="${animation[1]}">${info.gender}</td>
+                </tr>`;
+        table.append(newRowContent);
+        id++;
+        
+        console.log(a)
+    }
+
+</script>
+
+</html>
